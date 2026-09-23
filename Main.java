@@ -28,7 +28,7 @@ public class Main{
         }
         //find second lowest and second highest
         int secondLowest=arr[1];
-        int secondHighest=arr[3];
+        int secondHighest=arr[4-1];
         System.out.println ();
         System.out.println("Second Lowest:"+secondLowest);
         System.out.println("Second Highest :"+secondHighest);
